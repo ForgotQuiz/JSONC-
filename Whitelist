@@ -1,8 +1,10 @@
 {
-  "iJezko25": [
-    "admin"
-  ],
-  "YungSlime": [
-    "admin"
+  "users" : [
+    "iJezko25": [
+      "admin"
+    ],
+    "YungSlime": [
+      "admin"
+  ]
   ]
 }
